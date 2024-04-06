@@ -1,0 +1,9 @@
+{"level":"info","message":"Parameters 5 and 7 received for addition","service":"calculate-service"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Incoming request - Method: GET, URL: /add?n1=5&n2=3, IP: ::1","service":"calculate-service"}
+{"level":"info","message":"Parameters 5 and 3 received for addition","service":"calculate-service"}
+{"level":"info","message":"Incoming request - Method: GET, URL: /favicon.ico, IP: ::1","service":"calculate-service"}
+{"level":"info","message":"Incoming request - Method: GET, URL: /subtract?n1=8&n2=2, IP: ::1","service":"calculate-service"}
+{"level":"info","message":"Parameters 8 and 2 received for subtraction","service":"calculate-service"}
+{"level":"info","message":"Incoming request - Method: GET, URL: /subtract?n1=8&na=2, IP: ::1","service":"calculate-service"}
+{"level":"error","message":"Invalid numbers provided","service":"calculate-service"}
